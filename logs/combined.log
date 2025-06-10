@@ -567,3 +567,1059 @@
 2025-05-20 19:07:43 [[33mwarn[39m] : 🔴 Cliente desconectado: hHNTe6nHFhlShWXCAAAL
 2025-05-20 19:07:44 [[32minfo[39m] : 🟢 Cliente conectado: ne-lnvIYN2XKdRjdAAAN
 2025-05-20 19:07:53 [[33mwarn[39m] : 🔴 Cliente desconectado: ne-lnvIYN2XKdRjdAAAN
+2025-05-30 19:28:26 [[32minfo[39m] : 🚀 Servidor corriendo en http://localhost:4000
+2025-05-30 19:29:19 [[32minfo[39m] : 🟢 Cliente conectado: LCOWpxcxYJ5Mh-RBAAAB
+2025-05-30 19:29:31 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-05-30 19:29:49 [[32minfo[39m] : ✅ Perfil obtenido para el usuario ID: 1
+2025-05-30 19:29:49 [[32minfo[39m] : ✅ Perfil obtenido para el usuario ID: 1
+2025-05-30 19:35:41 [[32minfo[39m] : 🟢 Cliente conectado: uC4JQKvy8IC-L1pRAAAE
+2025-05-30 19:35:41 [[32minfo[39m] : ✅ Cliente uC4JQKvy8IC-L1pRAAAE se unió a la sala af2c9395-99d8-4e23-b937-7866e1cb2af6
+2025-05-30 19:48:38 [[33mwarn[39m] : 🔴 Cliente desconectado: uC4JQKvy8IC-L1pRAAAE
+2025-05-30 19:48:38 [[33mwarn[39m] : 🔴 Cliente desconectado: LCOWpxcxYJ5Mh-RBAAAB
+2025-06-08 15:06:15 [[32minfo[39m] : 🚀 Servidor corriendo en http://localhost:4000
+2025-06-08 15:06:59 [[32minfo[39m] : 🟢 Cliente conectado: cF7jlVcSMKFElG5xAAAB
+2025-06-08 15:07:36 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-08 15:22:13 [[33mwarn[39m] : 🔴 Cliente desconectado: cF7jlVcSMKFElG5xAAAB
+2025-06-08 15:22:13 [[32minfo[39m] : 🟢 Cliente conectado: CbYpYbcpcG7Flek1AAAD
+2025-06-08 15:22:37 [[33mwarn[39m] : 🔴 Cliente desconectado: CbYpYbcpcG7Flek1AAAD
+2025-06-08 15:22:37 [[32minfo[39m] : 🟢 Cliente conectado: ccdjqxsxsZdW0QiFAAAF
+2025-06-08 15:22:40 [[33mwarn[39m] : 🔴 Cliente desconectado: ccdjqxsxsZdW0QiFAAAF
+2025-06-08 15:22:40 [[32minfo[39m] : 🟢 Cliente conectado: c8h6jMu76lcZwrVrAAAH
+2025-06-08 15:23:01 [[32minfo[39m] : 🟢 Cliente conectado: 7H3RokWkfWe12xRcAAAJ
+2025-06-08 15:23:04 [[33mwarn[39m] : 🔴 Cliente desconectado: c8h6jMu76lcZwrVrAAAH
+2025-06-08 15:23:12 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-08 15:25:54 [[33mwarn[39m] : 🔴 Cliente desconectado: 7H3RokWkfWe12xRcAAAJ
+2025-06-08 15:25:54 [[32minfo[39m] : 🟢 Cliente conectado: 1V6ksqgd0cs-Bw8YAAAL
+2025-06-08 15:27:08 [[32minfo[39m] : 🚀 Servidor corriendo en http://localhost:4000
+2025-06-08 15:27:13 [[32minfo[39m] : 🟢 Cliente conectado: Yalxm1j0qeD2TWT0AAAB
+2025-06-08 15:27:31 [[32minfo[39m] : 🟢 Cliente conectado: tuAkhiAakAlFPc5kAAAD
+2025-06-08 15:27:35 [[33mwarn[39m] : 🔴 Cliente desconectado: Yalxm1j0qeD2TWT0AAAB
+2025-06-08 15:27:43 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-08 15:27:48 [[32minfo[39m] : 🟢 Cliente conectado: Kci_KRENdFg3vI0qAAAG
+2025-06-08 15:27:48 [[32minfo[39m] : ✅ Cliente Kci_KRENdFg3vI0qAAAG se unió a la sala 856103ee-75a5-4682-87f6-70b345c9e786
+2025-06-08 15:27:49 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 0
+2025-06-08 15:27:49 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:28:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:28:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:28:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:28:04 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:28:06 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:28:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:28:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:28:09 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:28:09 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 0
+2025-06-08 15:28:12 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 0
+2025-06-08 15:28:12 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:28:14 [[33mwarn[39m] : 🔴 Cliente desconectado: Kci_KRENdFg3vI0qAAAG
+2025-06-08 15:28:14 [[33mwarn[39m] : 🔴 Cliente desconectado: tuAkhiAakAlFPc5kAAAD
+2025-06-08 15:28:14 [[32minfo[39m] : 🟢 Cliente conectado: Dopod9h1PUivEnFOAAAI
+2025-06-08 15:28:26 [[33mwarn[39m] : 🔴 Cliente desconectado: Dopod9h1PUivEnFOAAAI
+2025-06-08 15:28:27 [[32minfo[39m] : 🟢 Cliente conectado: hIHE4cehtK6ryXYyAAAK
+2025-06-08 15:28:27 [[32minfo[39m] : 🟢 Cliente conectado: q04cF3V-gkruFS6tAAAN
+2025-06-08 15:28:27 [[32minfo[39m] : ✅ Cliente q04cF3V-gkruFS6tAAAN se unió a la sala 856103ee-75a5-4682-87f6-70b345c9e786
+2025-06-08 15:28:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:28:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:28:31 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:28:32 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:28:32 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:28:33 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:28:33 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 0
+2025-06-08 15:32:22 [[33mwarn[39m] : 🔴 Cliente desconectado: hIHE4cehtK6ryXYyAAAK
+2025-06-08 15:32:22 [[33mwarn[39m] : 🔴 Cliente desconectado: q04cF3V-gkruFS6tAAAN
+2025-06-08 15:32:22 [[32minfo[39m] : 🟢 Cliente conectado: 1I9e3m0WHR14X_IdAAAP
+2025-06-08 15:32:22 [[32minfo[39m] : 🟢 Cliente conectado: krM9jWuzXQHJTjhHAAAS
+2025-06-08 15:32:22 [[32minfo[39m] : ✅ Cliente krM9jWuzXQHJTjhHAAAS se unió a la sala 856103ee-75a5-4682-87f6-70b345c9e786
+2025-06-08 15:32:24 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 0
+2025-06-08 15:32:24 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:32:28 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:32:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:32:33 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:32:34 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:34:36 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:34:50 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:34:51 [[33mwarn[39m] : 🔴 Cliente desconectado: 1I9e3m0WHR14X_IdAAAP
+2025-06-08 15:34:51 [[33mwarn[39m] : 🔴 Cliente desconectado: krM9jWuzXQHJTjhHAAAS
+2025-06-08 15:34:51 [[32minfo[39m] : 🟢 Cliente conectado: VBoCYmQtBahj4q4bAAAU
+2025-06-08 15:34:51 [[32minfo[39m] : 🟢 Cliente conectado: eRhxX6mLeg2Z7zFKAAAX
+2025-06-08 15:34:51 [[32minfo[39m] : ✅ Cliente eRhxX6mLeg2Z7zFKAAAX se unió a la sala 856103ee-75a5-4682-87f6-70b345c9e786
+2025-06-08 15:34:54 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:34:56 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:34:57 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:34:58 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:35:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:35:03 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:35:06 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:35:06 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:35:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:35:09 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:35:11 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:35:12 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:35:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:35:15 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:35:16 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:35:30 [[32minfo[39m] : 🟢 Cliente conectado: IUgcH0LHrSSXR2qkAAAZ
+2025-06-08 15:35:52 [[32minfo[39m] : ✅ Login exitoso para usuario: susana@gmail.com
+2025-06-08 15:35:59 [[33mwarn[39m] : 🔴 Cliente desconectado: IUgcH0LHrSSXR2qkAAAZ
+2025-06-08 15:35:59 [[32minfo[39m] : 🟢 Cliente conectado: aa2za1gaaBXfFuN-AAAb
+2025-06-08 15:36:00 [[32minfo[39m] : 🟢 Cliente conectado: MCe5504JMiDMUhcxAAAe
+2025-06-08 15:36:00 [[32minfo[39m] : ✅ Cliente MCe5504JMiDMUhcxAAAe se unió a la sala 856103ee-75a5-4682-87f6-70b345c9e786
+2025-06-08 15:36:03 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:36:03 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 3
+2025-06-08 15:36:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 3
+2025-06-08 15:36:23 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 3
+2025-06-08 15:36:27 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 3
+2025-06-08 15:36:27 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:36:28 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 2
+2025-06-08 15:36:28 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:36:30 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:36:30 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 0
+2025-06-08 15:36:44 [[33mwarn[39m] : 🔴 Cliente desconectado: aa2za1gaaBXfFuN-AAAb
+2025-06-08 15:36:44 [[33mwarn[39m] : 🔴 Cliente desconectado: MCe5504JMiDMUhcxAAAe
+2025-06-08 15:42:37 [[33mwarn[39m] : 🔴 Cliente desconectado: VBoCYmQtBahj4q4bAAAU
+2025-06-08 15:42:37 [[33mwarn[39m] : 🔴 Cliente desconectado: eRhxX6mLeg2Z7zFKAAAX
+2025-06-08 15:42:37 [[32minfo[39m] : 🟢 Cliente conectado: UEGheW8mmVgtRM8QAAAg
+2025-06-08 15:42:37 [[32minfo[39m] : 🟢 Cliente conectado: TjQf723D8Y2TDcKpAAAj
+2025-06-08 15:42:37 [[32minfo[39m] : ✅ Cliente TjQf723D8Y2TDcKpAAAj se unió a la sala 856103ee-75a5-4682-87f6-70b345c9e786
+2025-06-08 15:42:39 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 0
+2025-06-08 15:42:39 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:42:43 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:42:44 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:50:40 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:50:40 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 0
+2025-06-08 15:50:42 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 0
+2025-06-08 15:50:42 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:50:44 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:50:44 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 0
+2025-06-08 15:55:40 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 0
+2025-06-08 15:58:15 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 0
+2025-06-08 15:58:15 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:58:18 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 1
+2025-06-08 15:58:18 [[32minfo[39m] : 📡 Elementos sincronizados en sala 856103ee-75a5-4682-87f6-70b345c9e786: 0
+2025-06-08 16:09:15 [[33mwarn[39m] : 🔴 Cliente desconectado: UEGheW8mmVgtRM8QAAAg
+2025-06-08 16:09:15 [[33mwarn[39m] : 🔴 Cliente desconectado: TjQf723D8Y2TDcKpAAAj
+2025-06-09 11:35:50 [[32minfo[39m] : 🚀 Servidor corriendo en http://localhost:4000
+2025-06-09 11:36:25 [[32minfo[39m] : 🟢 Cliente conectado: AEZHQPOLggMpyOzEAAAB
+2025-06-09 11:36:34 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-09 11:36:39 [[32minfo[39m] : 🟢 Cliente conectado: tqQ7Wr-fiI1PTD7ZAAAE
+2025-06-09 11:36:39 [[32minfo[39m] : ✅ Cliente tqQ7Wr-fiI1PTD7ZAAAE se unió a la sala d409af70-e897-4bb1-9d13-923c9b374d99
+2025-06-09 11:37:37 [[33mwarn[39m] : 🔴 Cliente desconectado: AEZHQPOLggMpyOzEAAAB
+2025-06-09 11:37:37 [[33mwarn[39m] : 🔴 Cliente desconectado: tqQ7Wr-fiI1PTD7ZAAAE
+2025-06-09 11:37:37 [[32minfo[39m] : 🟢 Cliente conectado: qzeRLPTEiXAuVlC8AAAG
+2025-06-09 11:37:37 [[32minfo[39m] : 🟢 Cliente conectado: 3puqGMeznMQ-qyypAAAJ
+2025-06-09 11:37:37 [[32minfo[39m] : ✅ Cliente 3puqGMeznMQ-qyypAAAJ se unió a la sala d409af70-e897-4bb1-9d13-923c9b374d99
+2025-06-09 11:37:38 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:37:38 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:37:44 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:37:46 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:37:46 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:37:48 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:37:48 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 3
+2025-06-09 11:37:53 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 3
+2025-06-09 11:38:19 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 3
+2025-06-09 11:38:19 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:38:20 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:38:20 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:38:21 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:38:21 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:38:23 [[33mwarn[39m] : 🔴 Cliente desconectado: qzeRLPTEiXAuVlC8AAAG
+2025-06-09 11:38:23 [[33mwarn[39m] : 🔴 Cliente desconectado: 3puqGMeznMQ-qyypAAAJ
+2025-06-09 11:38:23 [[32minfo[39m] : 🟢 Cliente conectado: ONhI5T04hmiHYoH8AAAL
+2025-06-09 11:38:24 [[32minfo[39m] : 🟢 Cliente conectado: 7JwHZcdRhzGC9ZcpAAAO
+2025-06-09 11:38:24 [[32minfo[39m] : ✅ Cliente 7JwHZcdRhzGC9ZcpAAAO se unió a la sala d409af70-e897-4bb1-9d13-923c9b374d99
+2025-06-09 11:38:48 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:38:48 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:38:51 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:38:53 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:38:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:38:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:39:15 [[33mwarn[39m] : 🔴 Cliente desconectado: 7JwHZcdRhzGC9ZcpAAAO
+2025-06-09 11:39:15 [[33mwarn[39m] : 🔴 Cliente desconectado: ONhI5T04hmiHYoH8AAAL
+2025-06-09 11:39:15 [[32minfo[39m] : 🟢 Cliente conectado: 2YwdOs64Ps29qqokAAAQ
+2025-06-09 11:39:15 [[32minfo[39m] : 🟢 Cliente conectado: kmDcfzeI1EGt34MOAAAT
+2025-06-09 11:39:15 [[32minfo[39m] : ✅ Cliente kmDcfzeI1EGt34MOAAAT se unió a la sala d409af70-e897-4bb1-9d13-923c9b374d99
+2025-06-09 11:39:17 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:39:17 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:39:20 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:39:22 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:39:22 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:39:25 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:39:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:39:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:39:46 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:39:46 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:39:47 [[33mwarn[39m] : 🔴 Cliente desconectado: kmDcfzeI1EGt34MOAAAT
+2025-06-09 11:39:47 [[33mwarn[39m] : 🔴 Cliente desconectado: 2YwdOs64Ps29qqokAAAQ
+2025-06-09 11:39:47 [[32minfo[39m] : 🟢 Cliente conectado: Jmnjqfeg05mHBzceAAAV
+2025-06-09 11:39:47 [[32minfo[39m] : 🟢 Cliente conectado: Bwv5PkUkYLwZwABfAAAY
+2025-06-09 11:39:47 [[32minfo[39m] : ✅ Cliente Bwv5PkUkYLwZwABfAAAY se unió a la sala d409af70-e897-4bb1-9d13-923c9b374d99
+2025-06-09 11:39:48 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:39:48 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:39:53 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:39:54 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:39:54 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:39:58 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:39:58 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:40:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:40:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:40:02 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:40:02 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:40:24 [[33mwarn[39m] : 🔴 Cliente desconectado: Bwv5PkUkYLwZwABfAAAY
+2025-06-09 11:40:24 [[33mwarn[39m] : 🔴 Cliente desconectado: Jmnjqfeg05mHBzceAAAV
+2025-06-09 11:40:24 [[32minfo[39m] : 🟢 Cliente conectado: kAi988gP6YmB_jqmAAAa
+2025-06-09 11:40:24 [[32minfo[39m] : 🟢 Cliente conectado: sjElw9I2H2zaf2NpAAAd
+2025-06-09 11:40:24 [[32minfo[39m] : ✅ Cliente sjElw9I2H2zaf2NpAAAd se unió a la sala d409af70-e897-4bb1-9d13-923c9b374d99
+2025-06-09 11:40:25 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:40:25 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:40:40 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:40:40 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:40:41 [[33mwarn[39m] : 🔴 Cliente desconectado: kAi988gP6YmB_jqmAAAa
+2025-06-09 11:40:42 [[33mwarn[39m] : 🔴 Cliente desconectado: sjElw9I2H2zaf2NpAAAd
+2025-06-09 11:40:42 [[32minfo[39m] : 🟢 Cliente conectado: 1YOIzB205OLciefkAAAf
+2025-06-09 11:40:42 [[32minfo[39m] : 🟢 Cliente conectado: 30M3GamTmCUYumWfAAAi
+2025-06-09 11:40:42 [[32minfo[39m] : ✅ Cliente 30M3GamTmCUYumWfAAAi se unió a la sala d409af70-e897-4bb1-9d13-923c9b374d99
+2025-06-09 11:40:43 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:40:43 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:40:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:40:46 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:40:48 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:40:48 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:41:07 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:41:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:41:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:10 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:12 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:16 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:20 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:41:20 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:49:53 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:49:53 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:50:02 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:50:05 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:50:06 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:50:07 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:50:09 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:50:10 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:50:11 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:50:11 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:50:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:50:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:50:16 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:50:17 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:50:17 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:52:15 [[33mwarn[39m] : 🔴 Cliente desconectado: 1YOIzB205OLciefkAAAf
+2025-06-09 11:52:15 [[33mwarn[39m] : 🔴 Cliente desconectado: 30M3GamTmCUYumWfAAAi
+2025-06-09 11:52:15 [[32minfo[39m] : 🟢 Cliente conectado: QAQ1eBQpxK1sNNL8AAAk
+2025-06-09 11:52:16 [[32minfo[39m] : 🟢 Cliente conectado: Ox1wNkngyqjyAUPYAAAn
+2025-06-09 11:52:16 [[32minfo[39m] : ✅ Cliente Ox1wNkngyqjyAUPYAAAn se unió a la sala d409af70-e897-4bb1-9d13-923c9b374d99
+2025-06-09 11:52:17 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:52:17 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:52:20 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:52:22 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:52:23 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:52:24 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:52:25 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:52:27 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:52:28 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:52:28 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:52:30 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:52:31 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:52:33 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:52:33 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:52:35 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:52:36 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:52:37 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:52:38 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:52:40 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:52:40 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:52:43 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:52:43 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:52:47 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:52:49 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:52:50 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:52:52 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:52:53 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:52:53 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:52:57 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:53:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:53:04 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:53:06 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:53:06 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 3
+2025-06-09 11:53:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 3
+2025-06-09 11:53:12 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 3
+2025-06-09 11:53:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 3
+2025-06-09 11:53:16 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 3
+2025-06-09 11:53:23 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 3
+2025-06-09 11:53:27 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 3
+2025-06-09 11:53:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 3
+2025-06-09 11:53:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:53:47 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 2
+2025-06-09 11:53:47 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:53:48 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 1
+2025-06-09 11:53:48 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 11:59:47 [[33mwarn[39m] : 🔴 Cliente desconectado: QAQ1eBQpxK1sNNL8AAAk
+2025-06-09 11:59:47 [[33mwarn[39m] : 🔴 Cliente desconectado: Ox1wNkngyqjyAUPYAAAn
+2025-06-09 12:06:36 [[32minfo[39m] : 🟢 Cliente conectado: SZsdxBOY1bzPSAKZAAAp
+2025-06-09 12:06:36 [[32minfo[39m] : 🟢 Cliente conectado: YUHvsNP2L7wwSacfAAAs
+2025-06-09 12:06:36 [[32minfo[39m] : ✅ Cliente YUHvsNP2L7wwSacfAAAs se unió a la sala d409af70-e897-4bb1-9d13-923c9b374d99
+2025-06-09 12:06:37 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 12:06:40 [[32minfo[39m] : 📡 Elementos sincronizados en sala d409af70-e897-4bb1-9d13-923c9b374d99: 0
+2025-06-09 12:06:40 [[33mwarn[39m] : 🔴 Cliente desconectado: YUHvsNP2L7wwSacfAAAs
+2025-06-09 12:12:26 [[33mwarn[39m] : 🔴 Cliente desconectado: SZsdxBOY1bzPSAKZAAAp
+2025-06-09 12:12:49 [[32minfo[39m] : 🟢 Cliente conectado: xACfJXXtIEQy9OmtAAAu
+2025-06-09 12:12:50 [[33mwarn[39m] : 🔴 Cliente desconectado: xACfJXXtIEQy9OmtAAAu
+2025-06-09 12:12:50 [[32minfo[39m] : 🟢 Cliente conectado: TbYmp5drRQJzS3_EAAAw
+2025-06-09 12:26:47 [[33mwarn[39m] : 🔴 Cliente desconectado: TbYmp5drRQJzS3_EAAAw
+2025-06-09 12:26:47 [[32minfo[39m] : 🟢 Cliente conectado: o53K8nnSkRlgJOHdAAAy
+2025-06-09 12:26:48 [[33mwarn[39m] : 🔴 Cliente desconectado: o53K8nnSkRlgJOHdAAAy
+2025-06-09 12:26:48 [[32minfo[39m] : 🟢 Cliente conectado: 2QCqjv49HKqTCA2SAAA0
+2025-06-09 12:56:42 [[33mwarn[39m] : 🔴 Cliente desconectado: 2QCqjv49HKqTCA2SAAA0
+2025-06-09 12:58:04 [[32minfo[39m] : 🟢 Cliente conectado: jdDPJ-sAA91j7LP2AAA2
+2025-06-09 13:18:22 [[33mwarn[39m] : 🔴 Cliente desconectado: jdDPJ-sAA91j7LP2AAA2
+2025-06-09 13:32:12 [[32minfo[39m] : 🟢 Cliente conectado: Tn7qqBEu9CSr1TmUAAA4
+2025-06-09 17:47:25 [[32minfo[39m] : 🚀 Servidor corriendo en http://localhost:4000
+2025-06-09 17:47:54 [[32minfo[39m] : 🟢 Cliente conectado: wygxn1ET79JBTEfkAAAB
+2025-06-09 17:48:59 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-09 17:50:52 [[32minfo[39m] : 🟢 Cliente conectado: vk7vGDqPzP_eE1lTAAAE
+2025-06-09 17:50:52 [[32minfo[39m] : ✅ Cliente vk7vGDqPzP_eE1lTAAAE se unió a la sala a574d693-1b9a-4e93-8e4c-68ec15290fa7
+2025-06-09 17:50:57 [[32minfo[39m] : 📡 Elementos sincronizados en sala a574d693-1b9a-4e93-8e4c-68ec15290fa7: 0
+2025-06-09 17:50:57 [[33mwarn[39m] : 🔴 Cliente desconectado: vk7vGDqPzP_eE1lTAAAE
+2025-06-09 17:52:35 [[33mwarn[39m] : 🔴 Cliente desconectado: wygxn1ET79JBTEfkAAAB
+2025-06-09 17:52:36 [[32minfo[39m] : 🟢 Cliente conectado: MBJ33__h6AXE-UjLAAAG
+2025-06-09 17:55:40 [[33mwarn[39m] : 🔴 Cliente desconectado: MBJ33__h6AXE-UjLAAAG
+2025-06-09 17:56:03 [[32minfo[39m] : 🟢 Cliente conectado: 3G9yERKKx5ka2VTuAAAI
+2025-06-09 17:56:08 [[33mwarn[39m] : 🔴 Cliente desconectado: 3G9yERKKx5ka2VTuAAAI
+2025-06-09 17:56:09 [[32minfo[39m] : 🟢 Cliente conectado: SmAexReENXmjvwdsAAAK
+2025-06-09 17:56:12 [[32minfo[39m] : 🟢 Cliente conectado: hgrU0gmyrlqan6miAAAN
+2025-06-09 17:56:12 [[32minfo[39m] : ✅ Cliente hgrU0gmyrlqan6miAAAN se unió a la sala 347e23a5-1263-4ffd-9c17-bfef6d40fe8b
+2025-06-09 17:56:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala 347e23a5-1263-4ffd-9c17-bfef6d40fe8b: 0
+2025-06-09 17:56:14 [[33mwarn[39m] : 🔴 Cliente desconectado: hgrU0gmyrlqan6miAAAN
+2025-06-09 17:58:00 [[33mwarn[39m] : 🔴 Cliente desconectado: SmAexReENXmjvwdsAAAK
+2025-06-09 17:58:00 [[32minfo[39m] : 🟢 Cliente conectado: 80xsS3VfmBlw7_L0AAAP
+2025-06-09 17:58:03 [[33mwarn[39m] : 🔴 Cliente desconectado: 80xsS3VfmBlw7_L0AAAP
+2025-06-09 17:58:03 [[32minfo[39m] : 🟢 Cliente conectado: yjmLPvrYSfC2pK3gAAAR
+2025-06-09 17:58:04 [[33mwarn[39m] : 🔴 Cliente desconectado: yjmLPvrYSfC2pK3gAAAR
+2025-06-09 17:58:05 [[32minfo[39m] : 🟢 Cliente conectado: ZiNvj_s2A_LQWefXAAAT
+2025-06-09 17:58:26 [[33mwarn[39m] : 🔴 Cliente desconectado: ZiNvj_s2A_LQWefXAAAT
+2025-06-09 17:58:26 [[32minfo[39m] : 🟢 Cliente conectado: Z7ELX0x76gSFgKIVAAAV
+2025-06-09 17:58:30 [[32minfo[39m] : 🟢 Cliente conectado: CdO1ELBLqLornWaqAAAY
+2025-06-09 17:58:30 [[32minfo[39m] : ✅ Cliente CdO1ELBLqLornWaqAAAY se unió a la sala 6549f864-86d2-40cb-a6b7-5c8828de3bbf
+2025-06-09 17:58:32 [[32minfo[39m] : 📡 Elementos sincronizados en sala 6549f864-86d2-40cb-a6b7-5c8828de3bbf: 0
+2025-06-09 17:58:32 [[33mwarn[39m] : 🔴 Cliente desconectado: CdO1ELBLqLornWaqAAAY
+2025-06-09 18:05:57 [[33mwarn[39m] : 🔴 Cliente desconectado: Z7ELX0x76gSFgKIVAAAV
+2025-06-09 18:05:57 [[32minfo[39m] : 🟢 Cliente conectado: _tPWuKJejkZ3ZXN4AAAa
+2025-06-09 18:23:21 [[33mwarn[39m] : 🔴 Cliente desconectado: _tPWuKJejkZ3ZXN4AAAa
+2025-06-09 18:27:43 [[32minfo[39m] : 🟢 Cliente conectado: RJFnc1z-MG5eZ7ONAAAc
+2025-06-09 18:27:45 [[33mwarn[39m] : 🔴 Cliente desconectado: RJFnc1z-MG5eZ7ONAAAc
+2025-06-09 18:27:45 [[32minfo[39m] : 🟢 Cliente conectado: 3Yq_onBo48Ih39DvAAAe
+2025-06-09 18:27:51 [[32minfo[39m] : 🟢 Cliente conectado: 7a8ludMyZbnWmie3AAAh
+2025-06-09 18:27:51 [[32minfo[39m] : ✅ Cliente 7a8ludMyZbnWmie3AAAh se unió a la sala bfb65f00-b968-4ccf-97ee-bcdd1b2ca927
+2025-06-09 18:27:53 [[32minfo[39m] : 📡 Elementos sincronizados en sala bfb65f00-b968-4ccf-97ee-bcdd1b2ca927: 0
+2025-06-09 18:27:53 [[33mwarn[39m] : 🔴 Cliente desconectado: 7a8ludMyZbnWmie3AAAh
+2025-06-09 18:32:10 [[33mwarn[39m] : 🔴 Cliente desconectado: 3Yq_onBo48Ih39DvAAAe
+2025-06-09 18:32:10 [[32minfo[39m] : 🟢 Cliente conectado: fIZDnEP7cdG6HBRiAAAj
+2025-06-09 18:40:06 [[32minfo[39m] : 🚀 Servidor corriendo en http://localhost:4000
+2025-06-09 18:41:02 [[32minfo[39m] : 🟢 Cliente conectado: 7n6lUsDj0jSbk3sZAAAB
+2025-06-09 18:41:12 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-09 18:41:16 [[32minfo[39m] : 🟢 Cliente conectado: QLUbjLb9-1a2NW96AAAE
+2025-06-09 18:41:16 [[32minfo[39m] : ✅ Cliente QLUbjLb9-1a2NW96AAAE se unió a la sala 48984f0b-03c8-4319-a8cc-00b5555dfabd
+2025-06-09 18:41:17 [[32minfo[39m] : 📡 Elementos sincronizados en sala 48984f0b-03c8-4319-a8cc-00b5555dfabd: 0
+2025-06-09 18:41:17 [[33mwarn[39m] : 🔴 Cliente desconectado: QLUbjLb9-1a2NW96AAAE
+2025-06-09 18:48:06 [[33mwarn[39m] : 🔴 Cliente desconectado: 7n6lUsDj0jSbk3sZAAAB
+2025-06-09 22:20:48 [[32minfo[39m] : 🚀 Servidor corriendo en http://localhost:4000
+2025-06-09 22:21:18 [[32minfo[39m] : 🟢 Cliente conectado: AB3zlmqc-DGPeueBAAAB
+2025-06-09 22:21:19 [[32minfo[39m] : 🟢 Cliente conectado: _dKUIIS4PmAW3EceAAAD
+2025-06-09 22:25:43 [[32minfo[39m] : ✅ Usuario registrado correctamente: matias@gmail.com
+2025-06-09 22:26:02 [[33mwarn[39m] : 🔴 Cliente desconectado: _dKUIIS4PmAW3EceAAAD
+2025-06-09 22:26:02 [[32minfo[39m] : 🟢 Cliente conectado: 4qBjCaflSP-gwoH4AAAF
+2025-06-09 22:26:07 [[33mwarn[39m] : 🔴 Cliente desconectado: 4qBjCaflSP-gwoH4AAAF
+2025-06-09 22:26:07 [[32minfo[39m] : 🟢 Cliente conectado: XT-hIvO4k-xZleXCAAAH
+2025-06-09 22:26:17 [[32minfo[39m] : ✅ Login exitoso para usuario: matias@gmail.com
+2025-06-09 22:48:20 [[33mwarn[39m] : 🔴 Cliente desconectado: AB3zlmqc-DGPeueBAAAB
+2025-06-09 22:59:56 [[33mwarn[39m] : 🔴 Cliente desconectado: XT-hIvO4k-xZleXCAAAH
+2025-06-09 22:59:56 [[32minfo[39m] : 🟢 Cliente conectado: E_Ckpncq-F3Pl_S1AAAJ
+2025-06-09 23:00:29 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-09 23:00:40 [[32minfo[39m] : 🟢 Cliente conectado: nyzzbXZPqJzjbDf7AAAM
+2025-06-09 23:00:40 [[32minfo[39m] : ✅ Cliente nyzzbXZPqJzjbDf7AAAM se unió a la sala c35901b6-18b3-4b80-9205-15700d9ab751
+2025-06-09 23:00:44 [[32minfo[39m] : 📡 Elementos sincronizados en sala c35901b6-18b3-4b80-9205-15700d9ab751: 0
+2025-06-09 23:00:44 [[32minfo[39m] : 📡 Elementos sincronizados en sala c35901b6-18b3-4b80-9205-15700d9ab751: 1
+2025-06-09 23:00:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala c35901b6-18b3-4b80-9205-15700d9ab751: 1
+2025-06-09 23:00:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala c35901b6-18b3-4b80-9205-15700d9ab751: 2
+2025-06-09 23:00:48 [[32minfo[39m] : 📡 Elementos sincronizados en sala c35901b6-18b3-4b80-9205-15700d9ab751: 2
+2025-06-09 23:00:49 [[32minfo[39m] : 📡 Elementos sincronizados en sala c35901b6-18b3-4b80-9205-15700d9ab751: 2
+2025-06-09 23:01:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala c35901b6-18b3-4b80-9205-15700d9ab751: 2
+2025-06-09 23:01:03 [[32minfo[39m] : 📡 Elementos sincronizados en sala c35901b6-18b3-4b80-9205-15700d9ab751: 2
+2025-06-09 23:01:06 [[32minfo[39m] : 📡 Elementos sincronizados en sala c35901b6-18b3-4b80-9205-15700d9ab751: 2
+2025-06-09 23:05:05 [[32minfo[39m] : 📡 Elementos sincronizados en sala c35901b6-18b3-4b80-9205-15700d9ab751: 2
+2025-06-09 23:05:05 [[33mwarn[39m] : 🔴 Cliente desconectado: nyzzbXZPqJzjbDf7AAAM
+2025-06-09 23:05:46 [[32minfo[39m] : 🚀 Servidor corriendo en http://localhost:4000
+2025-06-09 23:05:50 [[32minfo[39m] : 🟢 Cliente conectado: vJIXVFVYpMZzP2OaAAAB
+2025-06-09 23:05:51 [[32minfo[39m] : 🟢 Cliente conectado: xNwh3MHRgY6FU4tIAAAD
+2025-06-09 23:06:09 [[33mwarn[39m] : 🔴 Cliente desconectado: vJIXVFVYpMZzP2OaAAAB
+2025-06-09 23:06:09 [[32minfo[39m] : 🟢 Cliente conectado: aoW8tJeUD2yx6YotAAAF
+2025-06-09 23:09:17 [[32minfo[39m] : ✅ Usuario registrado correctamente: marina@gmail.com
+2025-06-09 23:09:30 [[33mwarn[39m] : 🔴 Cliente desconectado: aoW8tJeUD2yx6YotAAAF
+2025-06-09 23:09:30 [[32minfo[39m] : 🟢 Cliente conectado: 2J9hhCC-n3ANA9M8AAAH
+2025-06-09 23:12:18 [[32minfo[39m] : ✅ Login exitoso para usuario: marina@gmail.com
+2025-06-09 23:19:33 [[33mwarn[39m] : 🔴 Cliente desconectado: xNwh3MHRgY6FU4tIAAAD
+2025-06-09 23:19:33 [[32minfo[39m] : 🟢 Cliente conectado: L44ZZOqqCZSr1ESOAAAJ
+2025-06-09 23:19:36 [[33mwarn[39m] : 🔴 Cliente desconectado: L44ZZOqqCZSr1ESOAAAJ
+2025-06-09 23:19:36 [[32minfo[39m] : 🟢 Cliente conectado: It3gVdwxFKYvM2TaAAAL
+2025-06-09 23:19:39 [[33mwarn[39m] : 🔴 Cliente desconectado: It3gVdwxFKYvM2TaAAAL
+2025-06-09 23:19:39 [[32minfo[39m] : 🟢 Cliente conectado: GV7MKU3MfvfWYFUmAAAN
+2025-06-09 23:20:02 [[32minfo[39m] : ✅ Usuario registrado correctamente: teresa@gmail.com
+2025-06-09 23:20:05 [[33mwarn[39m] : 🔴 Cliente desconectado: GV7MKU3MfvfWYFUmAAAN
+2025-06-09 23:20:05 [[32minfo[39m] : 🟢 Cliente conectado: gQrOra5hY9AYOtMRAAAP
+2025-06-09 23:20:14 [[32minfo[39m] : ✅ Login exitoso para usuario: teresa@gmail.com
+2025-06-09 23:20:49 [[33mwarn[39m] : 🔴 Cliente desconectado: 2J9hhCC-n3ANA9M8AAAH
+2025-06-09 23:20:49 [[32minfo[39m] : 🟢 Cliente conectado: H0wJkDEscOzGtM5vAAAR
+2025-06-09 23:21:27 [[32minfo[39m] : ✅ Usuario registrado correctamente: maykol@gmail.com
+2025-06-09 23:21:30 [[33mwarn[39m] : 🔴 Cliente desconectado: H0wJkDEscOzGtM5vAAAR
+2025-06-09 23:21:30 [[32minfo[39m] : 🟢 Cliente conectado: W4101acJhaPZVwaRAAAT
+2025-06-09 23:21:37 [[32minfo[39m] : ✅ Login exitoso para usuario: maykol@gmail.com
+2025-06-09 23:26:24 [[32minfo[39m] : 🟢 Cliente conectado: WxYel2gm7PnfuhFeAAAW
+2025-06-09 23:26:24 [[32minfo[39m] : ✅ Cliente WxYel2gm7PnfuhFeAAAW se unió a la sala 6d027d52-0570-4260-8a42-6d8020f7bbd6
+2025-06-09 23:26:31 [[32minfo[39m] : 📡 Elementos sincronizados en sala 6d027d52-0570-4260-8a42-6d8020f7bbd6: 0
+2025-06-09 23:26:31 [[33mwarn[39m] : 🔴 Cliente desconectado: WxYel2gm7PnfuhFeAAAW
+2025-06-09 23:35:13 [[32minfo[39m] : 🟢 Cliente conectado: dZro5OCaYNylfRUVAAAZ
+2025-06-09 23:35:13 [[32minfo[39m] : ✅ Cliente dZro5OCaYNylfRUVAAAZ se unió a la sala 446ed220-484e-452a-95fc-868db3b2372b
+2025-06-09 23:35:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 0
+2025-06-09 23:35:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:36:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:36:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 2
+2025-06-09 23:36:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 2
+2025-06-09 23:36:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 3
+2025-06-09 23:36:02 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 3
+2025-06-09 23:36:02 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 4
+2025-06-09 23:36:03 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 4
+2025-06-09 23:36:03 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 5
+2025-06-09 23:36:05 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 5
+2025-06-09 23:36:05 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:36:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:36:16 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:36:19 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:36:22 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:36:25 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:36:28 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:36:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:36:55 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:36:57 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:37:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:37:02 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:37:05 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:37:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:37:15 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:39:43 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:39:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:39:47 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:39:49 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:40:09 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:40:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:40:15 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 6
+2025-06-09 23:40:15 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 5
+2025-06-09 23:40:16 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 5
+2025-06-09 23:40:16 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 4
+2025-06-09 23:40:17 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 4
+2025-06-09 23:40:17 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 3
+2025-06-09 23:40:19 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 3
+2025-06-09 23:40:19 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 2
+2025-06-09 23:40:20 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 2
+2025-06-09 23:40:20 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:40:24 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:40:25 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:40:28 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:40:30 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:40:38 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:40:50 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:41:34 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:41:37 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:41:37 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 0
+2025-06-09 23:41:39 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 0
+2025-06-09 23:41:39 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:41:46 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:41:51 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:41:55 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:41:58 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:41:58 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:41:58 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:41:58 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:41:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:41:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:41:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:41:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:02 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:03 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:05 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:42 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:46 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 1
+2025-06-09 23:42:46 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 0
+2025-06-09 23:48:32 [[32minfo[39m] : 📡 Elementos sincronizados en sala 446ed220-484e-452a-95fc-868db3b2372b: 0
+2025-06-09 23:48:33 [[33mwarn[39m] : 🔴 Cliente desconectado: dZro5OCaYNylfRUVAAAZ
+2025-06-09 23:52:33 [[33mwarn[39m] : 🔴 Cliente desconectado: W4101acJhaPZVwaRAAAT
+2025-06-09 23:52:33 [[33mwarn[39m] : 🔴 Cliente desconectado: gQrOra5hY9AYOtMRAAAP
+2025-06-10 09:05:51 [[32minfo[39m] : 🚀 Servidor corriendo en http://localhost:4000
+2025-06-10 09:06:13 [[32minfo[39m] : 🟢 Cliente conectado: ekxAyGPaiUTzADT6AAAB
+2025-06-10 09:06:33 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-10 09:06:42 [[32minfo[39m] : 🟢 Cliente conectado: 9VcIlihQ5X9u5sF9AAAE
+2025-06-10 09:06:42 [[32minfo[39m] : ✅ Cliente 9VcIlihQ5X9u5sF9AAAE se unió a la sala 808b69d4-e673-49c3-9181-69c8f1879b88
+2025-06-10 09:06:43 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 0
+2025-06-10 09:09:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 0
+2025-06-10 09:09:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 1
+2025-06-10 09:09:09 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 1
+2025-06-10 09:09:09 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 2
+2025-06-10 09:09:10 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 2
+2025-06-10 09:09:10 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 3
+2025-06-10 09:09:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 3
+2025-06-10 09:15:57 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 3
+2025-06-10 09:15:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 3
+2025-06-10 09:16:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 3
+2025-06-10 09:16:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 4
+2025-06-10 09:16:02 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 4
+2025-06-10 09:16:04 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 4
+2025-06-10 09:16:06 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 4
+2025-06-10 09:16:09 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 4
+2025-06-10 09:16:10 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 4
+2025-06-10 09:16:10 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 5
+2025-06-10 09:16:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 5
+2025-06-10 09:16:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 5
+2025-06-10 09:16:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 6
+2025-06-10 09:16:17 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 6
+2025-06-10 09:16:18 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 6
+2025-06-10 09:16:18 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 7
+2025-06-10 09:16:21 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 7
+2025-06-10 09:16:25 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 7
+2025-06-10 09:22:47 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 7
+2025-06-10 09:22:54 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 7
+2025-06-10 09:22:58 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 7
+2025-06-10 09:45:46 [[33mwarn[39m] : 🔴 Cliente desconectado: ekxAyGPaiUTzADT6AAAB
+2025-06-10 09:45:46 [[33mwarn[39m] : 🔴 Cliente desconectado: 9VcIlihQ5X9u5sF9AAAE
+2025-06-10 09:45:47 [[32minfo[39m] : 🟢 Cliente conectado: UM_Dr2WDwmjfWoCSAAAG
+2025-06-10 09:45:47 [[32minfo[39m] : 🟢 Cliente conectado: jL6vmzXiAjJ6hDdZAAAJ
+2025-06-10 09:45:47 [[32minfo[39m] : ✅ Cliente jL6vmzXiAjJ6hDdZAAAJ se unió a la sala 808b69d4-e673-49c3-9181-69c8f1879b88
+2025-06-10 09:46:04 [[33mwarn[39m] : 🔴 Cliente desconectado: jL6vmzXiAjJ6hDdZAAAJ
+2025-06-10 09:46:04 [[33mwarn[39m] : 🔴 Cliente desconectado: UM_Dr2WDwmjfWoCSAAAG
+2025-06-10 09:46:05 [[32minfo[39m] : 🟢 Cliente conectado: Mtfm8dUL3XWtERKNAAAL
+2025-06-10 09:46:05 [[32minfo[39m] : 🟢 Cliente conectado: 8dMNgiecf-U9q07lAAAO
+2025-06-10 09:46:05 [[32minfo[39m] : ✅ Cliente 8dMNgiecf-U9q07lAAAO se unió a la sala 808b69d4-e673-49c3-9181-69c8f1879b88
+2025-06-10 09:50:53 [[33mwarn[39m] : 🔴 Cliente desconectado: Mtfm8dUL3XWtERKNAAAL
+2025-06-10 09:50:53 [[33mwarn[39m] : 🔴 Cliente desconectado: 8dMNgiecf-U9q07lAAAO
+2025-06-10 09:53:57 [[32minfo[39m] : 🟢 Cliente conectado: 9WW2dcTJEwvc3hreAAAQ
+2025-06-10 09:54:06 [[33mwarn[39m] : 🔴 Cliente desconectado: 9WW2dcTJEwvc3hreAAAQ
+2025-06-10 09:54:06 [[32minfo[39m] : 🟢 Cliente conectado: VkTpzi4hptreqp1bAAAS
+2025-06-10 10:07:06 [[33mwarn[39m] : 🔴 Cliente desconectado: VkTpzi4hptreqp1bAAAS
+2025-06-10 10:14:13 [[32minfo[39m] : 🟢 Cliente conectado: WxLb3CBIp90xsr6FAAAU
+2025-06-10 10:14:13 [[32minfo[39m] : 🟢 Cliente conectado: NLnYSNVQQsgzKt0DAAAX
+2025-06-10 10:14:13 [[32minfo[39m] : ✅ Cliente NLnYSNVQQsgzKt0DAAAX se unió a la sala 808b69d4-e673-49c3-9181-69c8f1879b88
+2025-06-10 10:14:17 [[32minfo[39m] : 📡 Elementos sincronizados en sala 808b69d4-e673-49c3-9181-69c8f1879b88: 7
+2025-06-10 10:14:17 [[33mwarn[39m] : 🔴 Cliente desconectado: NLnYSNVQQsgzKt0DAAAX
+2025-06-10 10:14:22 [[33mwarn[39m] : 🔴 Cliente desconectado: WxLb3CBIp90xsr6FAAAU
+2025-06-10 10:14:22 [[32minfo[39m] : 🟢 Cliente conectado: 5S_KzHV-n-QicHWuAAAZ
+2025-06-10 10:18:12 [[33mwarn[39m] : 🔴 Cliente desconectado: 5S_KzHV-n-QicHWuAAAZ
+2025-06-10 10:18:13 [[32minfo[39m] : 🟢 Cliente conectado: cE73IQz3IL_HOPgUAAAb
+2025-06-10 10:18:17 [[33mwarn[39m] : 🔴 Cliente desconectado: cE73IQz3IL_HOPgUAAAb
+2025-06-10 10:18:17 [[32minfo[39m] : 🟢 Cliente conectado: 5L2YmScEqA13M6XLAAAd
+2025-06-10 10:45:27 [[33mwarn[39m] : 🔴 Cliente desconectado: 5L2YmScEqA13M6XLAAAd
+2025-06-10 10:45:27 [[32minfo[39m] : 🟢 Cliente conectado: QiMiLRPff_MhFPjEAAAf
+2025-06-10 10:48:57 [[33mwarn[39m] : 🔴 Cliente desconectado: QiMiLRPff_MhFPjEAAAf
+2025-06-10 10:48:57 [[32minfo[39m] : 🟢 Cliente conectado: Qsn177YkvdyehZklAAAh
+2025-06-10 10:49:40 [[33mwarn[39m] : 🔴 Cliente desconectado: Qsn177YkvdyehZklAAAh
+2025-06-10 10:49:40 [[32minfo[39m] : 🟢 Cliente conectado: fMxvixyiSk6-CmwyAAAj
+2025-06-10 10:51:32 [[33mwarn[39m] : 🔴 Cliente desconectado: fMxvixyiSk6-CmwyAAAj
+2025-06-10 10:51:32 [[32minfo[39m] : 🟢 Cliente conectado: Pr50dd5YUrrimxL9AAAl
+2025-06-10 10:52:30 [[33mwarn[39m] : 🔴 Cliente desconectado: Pr50dd5YUrrimxL9AAAl
+2025-06-10 10:52:30 [[32minfo[39m] : 🟢 Cliente conectado: suN6XF4GLDkywfEoAAAn
+2025-06-10 11:07:12 [[33mwarn[39m] : 🔴 Cliente desconectado: suN6XF4GLDkywfEoAAAn
+2025-06-10 11:07:12 [[32minfo[39m] : 🟢 Cliente conectado: KA8H1V2jy50RqvZjAAAp
+2025-06-10 11:16:12 [[33mwarn[39m] : 🔴 Cliente desconectado: KA8H1V2jy50RqvZjAAAp
+2025-06-10 11:16:12 [[32minfo[39m] : 🟢 Cliente conectado: WVJ-4NaXT10rmzT7AAAr
+2025-06-10 11:16:18 [[33mwarn[39m] : 🔴 Cliente desconectado: WVJ-4NaXT10rmzT7AAAr
+2025-06-10 11:16:18 [[32minfo[39m] : 🟢 Cliente conectado: Sm_uvNGpNjje7IfWAAAt
+2025-06-10 11:16:23 [[32minfo[39m] : 🟢 Cliente conectado: SxIS4lQIDrIaOWjCAAAw
+2025-06-10 11:16:23 [[32minfo[39m] : ✅ Cliente SxIS4lQIDrIaOWjCAAAw se unió a la sala 69ab5289-3088-4f74-83b7-e98fa0971a3f
+2025-06-10 11:16:28 [[32minfo[39m] : 📡 Elementos sincronizados en sala 69ab5289-3088-4f74-83b7-e98fa0971a3f: 0
+2025-06-10 11:16:28 [[33mwarn[39m] : 🔴 Cliente desconectado: SxIS4lQIDrIaOWjCAAAw
+2025-06-10 11:18:56 [[32minfo[39m] : 🟢 Cliente conectado: jggh9N5qyoa4UgZrAAAy
+2025-06-10 11:18:56 [[32minfo[39m] : ✅ Cliente jggh9N5qyoa4UgZrAAAy se unió a la sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5
+2025-06-10 11:18:58 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 0
+2025-06-10 11:18:58 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 1
+2025-06-10 11:18:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 1
+2025-06-10 11:18:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 2
+2025-06-10 11:19:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 2
+2025-06-10 11:19:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 3
+2025-06-10 11:19:02 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 3
+2025-06-10 11:19:03 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 3
+2025-06-10 11:19:07 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 3
+2025-06-10 11:19:07 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 3
+2025-06-10 11:19:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 3
+2025-06-10 11:19:10 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 3
+2025-06-10 11:19:10 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 4
+2025-06-10 11:19:12 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 4
+2025-06-10 11:19:12 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 5
+2025-06-10 11:19:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 5
+2025-06-10 11:19:17 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 5
+2025-06-10 11:19:19 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 5
+2025-06-10 11:19:20 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 5
+2025-06-10 11:19:22 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 5
+2025-06-10 11:19:41 [[33mwarn[39m] : 🔴 Cliente desconectado: Sm_uvNGpNjje7IfWAAAt
+2025-06-10 11:19:41 [[33mwarn[39m] : 🔴 Cliente desconectado: jggh9N5qyoa4UgZrAAAy
+2025-06-10 11:19:41 [[32minfo[39m] : 🟢 Cliente conectado: wJSCIFM_BVlda5bAAAA1
+2025-06-10 11:27:52 [[33mwarn[39m] : 🔴 Cliente desconectado: wJSCIFM_BVlda5bAAAA1
+2025-06-10 11:27:52 [[32minfo[39m] : 🟢 Cliente conectado: ccEzGTx6uud9T2tjAAA3
+2025-06-10 11:27:52 [[32minfo[39m] : 🟢 Cliente conectado: fJmT2rDq3bwq7TYKAAA6
+2025-06-10 11:27:52 [[32minfo[39m] : ✅ Cliente fJmT2rDq3bwq7TYKAAA6 se unió a la sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5
+2025-06-10 11:27:54 [[32minfo[39m] : 📡 Elementos sincronizados en sala 34331aa2-ef65-4b26-9ba2-de829a57f4f5: 5
+2025-06-10 11:27:54 [[33mwarn[39m] : 🔴 Cliente desconectado: fJmT2rDq3bwq7TYKAAA6
+2025-06-10 11:27:59 [[32minfo[39m] : 🟢 Cliente conectado: 5qrVWolFv0tfjG88AAA9
+2025-06-10 11:27:59 [[32minfo[39m] : ✅ Cliente 5qrVWolFv0tfjG88AAA9 se unió a la sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10
+2025-06-10 11:28:04 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 0
+2025-06-10 11:28:04 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 1
+2025-06-10 11:28:05 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 1
+2025-06-10 11:28:05 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 2
+2025-06-10 11:28:06 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 2
+2025-06-10 11:28:06 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 3
+2025-06-10 11:28:07 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 3
+2025-06-10 11:28:07 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 4
+2025-06-10 11:28:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 4
+2025-06-10 11:28:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 5
+2025-06-10 11:28:09 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 5
+2025-06-10 11:28:09 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 6
+2025-06-10 11:28:10 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 6
+2025-06-10 11:29:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 6
+2025-06-10 11:29:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 6
+2025-06-10 11:29:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 6
+2025-06-10 11:30:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 6
+2025-06-10 11:30:59 [[33mwarn[39m] : 🔴 Cliente desconectado: 5qrVWolFv0tfjG88AAA9
+2025-06-10 11:36:32 [[33mwarn[39m] : 🔴 Cliente desconectado: ccEzGTx6uud9T2tjAAA3
+2025-06-10 11:36:32 [[32minfo[39m] : 🟢 Cliente conectado: QAULZvD0hbeofsePAAA_
+2025-06-10 11:48:23 [[33mwarn[39m] : 🔴 Cliente desconectado: QAULZvD0hbeofsePAAA_
+2025-06-10 11:48:23 [[32minfo[39m] : 🟢 Cliente conectado: zoLmur9iKm-FEnvfAABB
+2025-06-10 11:48:33 [[33mwarn[39m] : 🔴 Cliente desconectado: zoLmur9iKm-FEnvfAABB
+2025-06-10 11:48:33 [[32minfo[39m] : 🟢 Cliente conectado: YELLd8llYL3PDXvCAABD
+2025-06-10 11:55:20 [[33mwarn[39m] : 🔴 Cliente desconectado: YELLd8llYL3PDXvCAABD
+2025-06-10 11:55:20 [[32minfo[39m] : 🟢 Cliente conectado: UB8BBypqPIdR2wbZAABF
+2025-06-10 11:55:21 [[32minfo[39m] : 🟢 Cliente conectado: _3fiA2cX0XNQm8mRAABI
+2025-06-10 11:55:21 [[32minfo[39m] : ✅ Cliente _3fiA2cX0XNQm8mRAABI se unió a la sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10
+2025-06-10 11:55:26 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 6
+2025-06-10 11:56:12 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 6
+2025-06-10 11:56:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 6
+2025-06-10 11:56:16 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 6
+2025-06-10 11:56:18 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 6
+2025-06-10 11:56:20 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 6
+2025-06-10 11:56:22 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 6
+2025-06-10 11:56:25 [[32minfo[39m] : 📡 Elementos sincronizados en sala 87465f9d-2c2c-4e62-8dcb-7a0ee08d5c10: 6
+2025-06-10 11:56:25 [[33mwarn[39m] : 🔴 Cliente desconectado: _3fiA2cX0XNQm8mRAABI
+2025-06-10 11:56:44 [[33mwarn[39m] : 🔴 Cliente desconectado: UB8BBypqPIdR2wbZAABF
+2025-06-10 11:56:44 [[32minfo[39m] : 🟢 Cliente conectado: ptKIzLvlt7BFu9XnAABK
+2025-06-10 12:04:56 [[33mwarn[39m] : 🔴 Cliente desconectado: ptKIzLvlt7BFu9XnAABK
+2025-06-10 12:04:56 [[32minfo[39m] : 🟢 Cliente conectado: q0cvZbIstw9C1eVzAABM
+2025-06-10 12:05:01 [[33mwarn[39m] : 🔴 Cliente desconectado: q0cvZbIstw9C1eVzAABM
+2025-06-10 12:05:01 [[32minfo[39m] : 🟢 Cliente conectado: zfwM6owXPQHHChq3AABO
+2025-06-10 12:26:36 [[33mwarn[39m] : 🔴 Cliente desconectado: zfwM6owXPQHHChq3AABO
+2025-06-10 12:26:36 [[32minfo[39m] : 🟢 Cliente conectado: IXtRxT3UEZSnyI3vAABQ
+2025-06-10 12:26:56 [[33mwarn[39m] : 🔴 Cliente desconectado: IXtRxT3UEZSnyI3vAABQ
+2025-06-10 12:26:56 [[32minfo[39m] : 🟢 Cliente conectado: wqLUkksek7pt5_iyAABS
+2025-06-10 12:27:23 [[33mwarn[39m] : 🔴 Cliente desconectado: wqLUkksek7pt5_iyAABS
+2025-06-10 12:27:23 [[32minfo[39m] : 🟢 Cliente conectado: Jt8r1cQeQa1mTj2cAABU
+2025-06-10 12:27:29 [[33mwarn[39m] : 🔴 Cliente desconectado: Jt8r1cQeQa1mTj2cAABU
+2025-06-10 12:27:29 [[32minfo[39m] : 🟢 Cliente conectado: c-w3FMLY34MYGxwIAABW
+2025-06-10 12:37:55 [[33mwarn[39m] : 🔴 Cliente desconectado: c-w3FMLY34MYGxwIAABW
+2025-06-10 12:37:55 [[32minfo[39m] : 🟢 Cliente conectado: R2jGXZ-9lgQjW81YAABY
+2025-06-10 12:38:05 [[33mwarn[39m] : 🔴 Cliente desconectado: R2jGXZ-9lgQjW81YAABY
+2025-06-10 12:38:05 [[32minfo[39m] : 🟢 Cliente conectado: rCK8BK9jyEeCSGstAABa
+2025-06-10 12:48:19 [[32minfo[39m] : 🟢 Cliente conectado: F38b9dyk5Yr2OaYPAABd
+2025-06-10 12:48:19 [[32minfo[39m] : ✅ Cliente F38b9dyk5Yr2OaYPAABd se unió a la sala a875ff98-9e04-4fcd-b4f1-f2a8621f6680
+2025-06-10 12:48:36 [[32minfo[39m] : 📡 Elementos sincronizados en sala a875ff98-9e04-4fcd-b4f1-f2a8621f6680: 0
+2025-06-10 12:48:36 [[33mwarn[39m] : 🔴 Cliente desconectado: F38b9dyk5Yr2OaYPAABd
+2025-06-10 12:48:39 [[32minfo[39m] : 🟢 Cliente conectado: m8se4EQRsvlT-ew6AABg
+2025-06-10 12:48:39 [[32minfo[39m] : ✅ Cliente m8se4EQRsvlT-ew6AABg se unió a la sala a875ff98-9e04-4fcd-b4f1-f2a8621f6680
+2025-06-10 12:49:05 [[32minfo[39m] : 📡 Elementos sincronizados en sala a875ff98-9e04-4fcd-b4f1-f2a8621f6680: 0
+2025-06-10 12:49:05 [[33mwarn[39m] : 🔴 Cliente desconectado: m8se4EQRsvlT-ew6AABg
+2025-06-10 12:49:09 [[33mwarn[39m] : 🔴 Cliente desconectado: rCK8BK9jyEeCSGstAABa
+2025-06-10 12:49:09 [[32minfo[39m] : 🟢 Cliente conectado: EUnKnXwPoStCqPqKAABi
+2025-06-10 12:49:20 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-10 12:49:28 [[32minfo[39m] : 🟢 Cliente conectado: l2Bu9SoXY1OVvSC4AABl
+2025-06-10 12:49:28 [[32minfo[39m] : ✅ Cliente l2Bu9SoXY1OVvSC4AABl se unió a la sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1
+2025-06-10 12:49:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 0
+2025-06-10 12:49:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 1
+2025-06-10 12:49:30 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 1
+2025-06-10 12:49:30 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:49:33 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:49:34 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:49:38 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:49:38 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 3
+2025-06-10 12:49:41 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 3
+2025-06-10 12:49:44 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 3
+2025-06-10 12:49:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 3
+2025-06-10 12:49:47 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 3
+2025-06-10 12:49:50 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 3
+2025-06-10 12:49:50 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:49:51 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:49:51 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 1
+2025-06-10 12:49:52 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 1
+2025-06-10 12:49:52 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 0
+2025-06-10 12:49:53 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 0
+2025-06-10 12:49:53 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 1
+2025-06-10 12:49:56 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 1
+2025-06-10 12:49:57 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 1
+2025-06-10 12:49:57 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:49:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:50:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:50:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 3
+2025-06-10 12:50:04 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 3
+2025-06-10 12:50:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 3
+2025-06-10 12:50:20 [[33mwarn[39m] : 🔴 Cliente desconectado: l2Bu9SoXY1OVvSC4AABl
+2025-06-10 12:50:24 [[32minfo[39m] : 🟢 Cliente conectado: 4bvaaENDuBXqUpjhAABo
+2025-06-10 12:50:24 [[32minfo[39m] : ✅ Cliente 4bvaaENDuBXqUpjhAABo se unió a la sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1
+2025-06-10 12:50:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 3
+2025-06-10 12:50:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:50:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:50:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 1
+2025-06-10 12:50:30 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 1
+2025-06-10 12:50:30 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 0
+2025-06-10 12:50:31 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 0
+2025-06-10 12:50:39 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 0
+2025-06-10 12:50:39 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 1
+2025-06-10 12:50:42 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 1
+2025-06-10 12:50:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 1
+2025-06-10 12:50:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:50:47 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:50:49 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:51:02 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 2
+2025-06-10 12:51:02 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 3
+2025-06-10 12:51:05 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 3
+2025-06-10 12:51:18 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 3
+2025-06-10 12:51:18 [[33mwarn[39m] : 🔴 Cliente desconectado: 4bvaaENDuBXqUpjhAABo
+2025-06-10 12:54:03 [[32minfo[39m] : 🟢 Cliente conectado: i81AOAbxMe_1r2jDAABr
+2025-06-10 12:54:03 [[32minfo[39m] : ✅ Cliente i81AOAbxMe_1r2jDAABr se unió a la sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1
+2025-06-10 12:56:08 [[33mwarn[39m] : 🔴 Cliente desconectado: EUnKnXwPoStCqPqKAABi
+2025-06-10 12:56:08 [[33mwarn[39m] : 🔴 Cliente desconectado: i81AOAbxMe_1r2jDAABr
+2025-06-10 12:58:05 [[32minfo[39m] : 🟢 Cliente conectado: 7bvRgFeuf107aGsyAABu
+2025-06-10 12:58:05 [[32minfo[39m] : 🟢 Cliente conectado: nGnpxWYGn9uSCoeqAABv
+2025-06-10 12:58:05 [[33mwarn[39m] : 🔴 Cliente desconectado: 7bvRgFeuf107aGsyAABu
+2025-06-10 12:58:05 [[33mwarn[39m] : 🔴 Cliente desconectado: nGnpxWYGn9uSCoeqAABv
+2025-06-10 12:58:06 [[32minfo[39m] : 🟢 Cliente conectado: KSLpJ9MA0CxrcGS-AABx
+2025-06-10 12:58:06 [[32minfo[39m] : 🟢 Cliente conectado: XD0bNxo64YGPQuS3AAB0
+2025-06-10 12:58:06 [[32minfo[39m] : ✅ Cliente XD0bNxo64YGPQuS3AAB0 se unió a la sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1
+2025-06-10 12:59:37 [[32minfo[39m] : 📡 Elementos sincronizados en sala ce167bbe-05bd-442e-bee7-7c66f0b6cbe1: 3
+2025-06-10 12:59:37 [[33mwarn[39m] : 🔴 Cliente desconectado: XD0bNxo64YGPQuS3AAB0
+2025-06-10 12:59:41 [[33mwarn[39m] : 🔴 Cliente desconectado: KSLpJ9MA0CxrcGS-AABx
+2025-06-10 12:59:41 [[32minfo[39m] : 🟢 Cliente conectado: QiscAF3-v9p_oWpwAAB2
+2025-06-10 12:59:44 [[33mwarn[39m] : 🔴 Cliente desconectado: QiscAF3-v9p_oWpwAAB2
+2025-06-10 12:59:44 [[32minfo[39m] : 🟢 Cliente conectado: fsEuL_57xpxwfv_WAAB4
+2025-06-10 12:59:57 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-10 13:03:58 [[33mwarn[39m] : 🔴 Cliente desconectado: fsEuL_57xpxwfv_WAAB4
+2025-06-10 13:03:59 [[32minfo[39m] : 🟢 Cliente conectado: vobfWjDgyfeQybXEAAB6
+2025-06-10 13:04:18 [[33mwarn[39m] : 🔴 Cliente desconectado: vobfWjDgyfeQybXEAAB6
+2025-06-10 13:04:18 [[32minfo[39m] : 🟢 Cliente conectado: cNlvnv0rnMc4WLH5AAB8
+2025-06-10 13:04:28 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-10 13:08:34 [[33mwarn[39m] : 🔴 Cliente desconectado: cNlvnv0rnMc4WLH5AAB8
+2025-06-10 13:08:34 [[32minfo[39m] : 🟢 Cliente conectado: JL73fkIKiFFGN8WVAAB-
+2025-06-10 13:08:42 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-10 13:08:45 [[32minfo[39m] : 🟢 Cliente conectado: tD-Ue4H-eQl6aW-HAACB
+2025-06-10 13:08:45 [[32minfo[39m] : ✅ Cliente tD-Ue4H-eQl6aW-HAACB se unió a la sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0
+2025-06-10 13:08:47 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 0
+2025-06-10 13:08:47 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 1
+2025-06-10 13:08:52 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 1
+2025-06-10 13:08:52 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:08:54 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:08:56 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:08:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:08:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:09:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:09:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:09:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:09:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:09:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:09:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:09:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:09:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:09:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:09:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:09:04 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:09:04 [[33mwarn[39m] : 🔴 Cliente desconectado: tD-Ue4H-eQl6aW-HAACB
+2025-06-10 13:11:21 [[32minfo[39m] : 🟢 Cliente conectado: YA615sHmPxL_y8b-AACE
+2025-06-10 13:11:21 [[32minfo[39m] : ✅ Cliente YA615sHmPxL_y8b-AACE se unió a la sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0
+2025-06-10 13:16:18 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:16:18 [[33mwarn[39m] : 🔴 Cliente desconectado: YA615sHmPxL_y8b-AACE
+2025-06-10 13:19:08 [[33mwarn[39m] : 🔴 Cliente desconectado: JL73fkIKiFFGN8WVAAB-
+2025-06-10 13:19:09 [[32minfo[39m] : 🟢 Cliente conectado: qYoy1436m4VyuyN8AACG
+2025-06-10 13:22:12 [[32minfo[39m] : 🟢 Cliente conectado: LcGxcsdSWKDSl1LlAACJ
+2025-06-10 13:22:12 [[32minfo[39m] : ✅ Cliente LcGxcsdSWKDSl1LlAACJ se unió a la sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0
+2025-06-10 13:22:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:22:15 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:23:23 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:23:23 [[33mwarn[39m] : 🔴 Cliente desconectado: LcGxcsdSWKDSl1LlAACJ
+2025-06-10 13:25:27 [[32minfo[39m] : 🟢 Cliente conectado: LrQlv7ovHgYjp51SAACM
+2025-06-10 13:25:27 [[32minfo[39m] : ✅ Cliente LrQlv7ovHgYjp51SAACM se unió a la sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0
+2025-06-10 13:25:30 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:25:30 [[33mwarn[39m] : 🔴 Cliente desconectado: LrQlv7ovHgYjp51SAACM
+2025-06-10 13:27:56 [[32minfo[39m] : 🟢 Cliente conectado: qOjhkr3EGvv7kNunAACP
+2025-06-10 13:27:56 [[32minfo[39m] : ✅ Cliente qOjhkr3EGvv7kNunAACP se unió a la sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0
+2025-06-10 13:27:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:27:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 1
+2025-06-10 13:27:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 1
+2025-06-10 13:27:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 0
+2025-06-10 13:28:02 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 0
+2025-06-10 13:28:02 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 1
+2025-06-10 13:28:03 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 1
+2025-06-10 13:28:03 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:28:07 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:28:10 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:28:11 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:28:12 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:28:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 2
+2025-06-10 13:28:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 3
+2025-06-10 13:28:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 3
+2025-06-10 13:28:14 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 4
+2025-06-10 13:28:16 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 4
+2025-06-10 13:28:19 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 4
+2025-06-10 13:28:21 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 4
+2025-06-10 13:28:21 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 5
+2025-06-10 13:28:23 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 5
+2025-06-10 13:28:26 [[32minfo[39m] : 📡 Elementos sincronizados en sala 9e2fa413-9539-4b26-8cb6-362f4a30a6b0: 5
+2025-06-10 13:28:26 [[33mwarn[39m] : 🔴 Cliente desconectado: qOjhkr3EGvv7kNunAACP
+2025-06-10 13:31:17 [[33mwarn[39m] : 🔴 Cliente desconectado: qYoy1436m4VyuyN8AACG
+2025-06-10 13:31:17 [[32minfo[39m] : 🟢 Cliente conectado: gQex6TgX-tUNMniKAACR
+2025-06-10 13:31:25 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-10 13:40:18 [[33mwarn[39m] : 🔴 Cliente desconectado: gQex6TgX-tUNMniKAACR
+2025-06-10 13:40:18 [[32minfo[39m] : 🟢 Cliente conectado: JbYzaMqxL2xdS_9BAACT
+2025-06-10 13:40:26 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-10 13:45:47 [[33mwarn[39m] : 🔴 Cliente desconectado: JbYzaMqxL2xdS_9BAACT
+2025-06-10 13:45:47 [[32minfo[39m] : 🟢 Cliente conectado: TIco859CgWrmThHEAACV
+2025-06-10 13:45:58 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-10 13:52:25 [[33mwarn[39m] : 🔴 Cliente desconectado: TIco859CgWrmThHEAACV
+2025-06-10 13:52:25 [[32minfo[39m] : 🟢 Cliente conectado: jr_vJi-NYiuEizgXAACX
+2025-06-10 13:55:53 [[33mwarn[39m] : 🔴 Cliente desconectado: jr_vJi-NYiuEizgXAACX
+2025-06-10 13:55:53 [[32minfo[39m] : 🟢 Cliente conectado: VmA3D9Fj1qiE3s3_AACZ
+2025-06-10 13:56:09 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-10 13:56:15 [[32minfo[39m] : 🟢 Cliente conectado: IpgpRZsAe1uyhOHlAACc
+2025-06-10 13:56:15 [[32minfo[39m] : ✅ Cliente IpgpRZsAe1uyhOHlAACc se unió a la sala 7f24c710-f240-43d0-acf3-d305082c9059
+2025-06-10 13:56:22 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 0
+2025-06-10 13:56:22 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 1
+2025-06-10 13:56:23 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 1
+2025-06-10 13:56:23 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 2
+2025-06-10 13:56:26 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 2
+2025-06-10 13:56:26 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 3
+2025-06-10 13:56:27 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 3
+2025-06-10 13:56:27 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 4
+2025-06-10 13:56:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 4
+2025-06-10 13:56:31 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 4
+2025-06-10 13:56:33 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 4
+2025-06-10 13:56:36 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 4
+2025-06-10 13:56:39 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 4
+2025-06-10 13:56:39 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 5
+2025-06-10 13:56:42 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 5
+2025-06-10 13:56:46 [[32minfo[39m] : 📡 Elementos sincronizados en sala 7f24c710-f240-43d0-acf3-d305082c9059: 5
+2025-06-10 13:56:46 [[33mwarn[39m] : 🔴 Cliente desconectado: IpgpRZsAe1uyhOHlAACc
+2025-06-10 13:57:22 [[33mwarn[39m] : 🔴 Cliente desconectado: VmA3D9Fj1qiE3s3_AACZ
+2025-06-10 13:57:22 [[32minfo[39m] : 🟢 Cliente conectado: Y5VrUp13RDl8TgODAACe
+2025-06-10 14:01:14 [[33mwarn[39m] : 🔴 Cliente desconectado: Y5VrUp13RDl8TgODAACe
+2025-06-10 14:01:14 [[32minfo[39m] : 🟢 Cliente conectado: 6ApPTQVtn5F2DQX3AACg
+2025-06-10 14:01:38 [[33mwarn[39m] : 🔴 Cliente desconectado: 6ApPTQVtn5F2DQX3AACg
+2025-06-10 14:01:38 [[32minfo[39m] : 🟢 Cliente conectado: n5PSaNGuDi7-sJAqAACi
+2025-06-10 14:01:47 [[33mwarn[39m] : ⚠️ Intento de login con usuario no encontrado: marcoguzmanmontalvan@gmail.com
+2025-06-10 14:01:57 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-10 14:02:09 [[32minfo[39m] : 🟢 Cliente conectado: oTDa7qJ0SaqJXSV9AACl
+2025-06-10 14:02:09 [[32minfo[39m] : ✅ Cliente oTDa7qJ0SaqJXSV9AACl se unió a la sala fae29a11-9307-4b0b-8e95-c9f175a54a3d
+2025-06-10 14:02:11 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 0
+2025-06-10 14:02:11 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 1
+2025-06-10 14:02:12 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 1
+2025-06-10 14:02:12 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 2
+2025-06-10 14:02:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 2
+2025-06-10 14:02:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 3
+2025-06-10 14:02:15 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 3
+2025-06-10 14:02:15 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 4
+2025-06-10 14:02:16 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 4
+2025-06-10 14:02:16 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 5
+2025-06-10 14:02:19 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 5
+2025-06-10 14:02:21 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 5
+2025-06-10 14:02:23 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 5
+2025-06-10 14:02:26 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 5
+2025-06-10 14:02:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 5
+2025-06-10 14:02:32 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 5
+2025-06-10 14:02:33 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 5
+2025-06-10 14:02:36 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 5
+2025-06-10 14:02:36 [[33mwarn[39m] : 🔴 Cliente desconectado: oTDa7qJ0SaqJXSV9AACl
+2025-06-10 14:03:23 [[32minfo[39m] : 🟢 Cliente conectado: O3KCyGKcNElQ9YKnAACo
+2025-06-10 14:03:23 [[32minfo[39m] : ✅ Cliente O3KCyGKcNElQ9YKnAACo se unió a la sala fae29a11-9307-4b0b-8e95-c9f175a54a3d
+2025-06-10 14:04:26 [[32minfo[39m] : 📡 Elementos sincronizados en sala fae29a11-9307-4b0b-8e95-c9f175a54a3d: 5
+2025-06-10 14:04:26 [[33mwarn[39m] : 🔴 Cliente desconectado: O3KCyGKcNElQ9YKnAACo
+2025-06-10 14:12:40 [[33mwarn[39m] : 🔴 Cliente desconectado: n5PSaNGuDi7-sJAqAACi
+2025-06-10 14:12:40 [[32minfo[39m] : 🟢 Cliente conectado: 0gz1AMZP2i6f0bHjAACq
+2025-06-10 14:16:35 [[33mwarn[39m] : 🔴 Cliente desconectado: 0gz1AMZP2i6f0bHjAACq
+2025-06-10 14:16:35 [[32minfo[39m] : 🟢 Cliente conectado: BGdkrUOxYMi5ATL0AACs
+2025-06-10 14:23:13 [[32minfo[39m] : 🟢 Cliente conectado: PBEQsZSG1RX0NLjxAACu
+2025-06-10 14:46:48 [[33mwarn[39m] : 🔴 Cliente desconectado: PBEQsZSG1RX0NLjxAACu
+2025-06-10 14:46:48 [[33mwarn[39m] : 🔴 Cliente desconectado: BGdkrUOxYMi5ATL0AACs
+2025-06-10 14:46:48 [[32minfo[39m] : 🟢 Cliente conectado: cFmeJkvdoq9T3sU5AACw
+2025-06-10 14:56:28 [[32minfo[39m] : 🚀 Servidor corriendo en http://localhost:4000
+2025-06-10 14:56:32 [[32minfo[39m] : 🟢 Cliente conectado: Xzk8uSFNh9cLZY_eAAAB
+2025-06-10 14:56:42 [[32minfo[39m] : 🟢 Cliente conectado: mSzdfqaf_BIwcvn-AAAD
+2025-06-10 14:56:52 [[32minfo[39m] : ✅ Login exitoso para usuario: marcos@gmail.com
+2025-06-10 14:56:56 [[32minfo[39m] : 🟢 Cliente conectado: 66yp-sVMp6KRb4vwAAAG
+2025-06-10 14:56:56 [[32minfo[39m] : ✅ Cliente 66yp-sVMp6KRb4vwAAAG se unió a la sala 4e4264da-affc-4154-84fb-f0cda09cc4e3
+2025-06-10 14:56:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:56:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 1
+2025-06-10 14:57:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 1
+2025-06-10 14:57:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:57:03 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:57:06 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:57:07 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:57:07 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 3
+2025-06-10 14:57:11 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 3
+2025-06-10 14:57:16 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 3
+2025-06-10 14:57:16 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:57:21 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:57:25 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:57:25 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 5
+2025-06-10 14:57:27 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 5
+2025-06-10 14:57:27 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:57:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:57:33 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:57:35 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:57:37 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:57:37 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 5
+2025-06-10 14:57:39 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 5
+2025-06-10 14:57:41 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 5
+2025-06-10 14:57:41 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:57:43 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:57:44 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:57:44 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:57:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:57:47 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:57:49 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:57:54 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:57:55 [[33mwarn[39m] : 🔴 Cliente desconectado: Xzk8uSFNh9cLZY_eAAAB
+2025-06-10 14:57:56 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:57:58 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:57:58 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 5
+2025-06-10 14:57:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 5
+2025-06-10 14:57:59 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:58:01 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:58:05 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:58:07 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:58:10 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:58:12 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:58:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:58:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:58:15 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:58:15 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:58:15 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:58:16 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:58:17 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:58:17 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:58:21 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:58:23 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:58:24 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:58:26 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:58:27 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:58:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:58:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 3
+2025-06-10 14:58:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 3
+2025-06-10 14:58:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:29 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:30 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:30 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:30 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:30 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:31 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:31 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:31 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:31 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:33 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:34 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:34 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 1
+2025-06-10 14:58:34 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 1
+2025-06-10 14:58:34 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:34 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:34 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:35 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:35 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:35 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:35 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:35 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:35 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:35 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:35 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:35 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:35 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:36 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:36 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:36 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:36 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 1
+2025-06-10 14:58:37 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 1
+2025-06-10 14:58:37 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:38 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:38 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:41 [[33mwarn[39m] : 🔴 Cliente desconectado: mSzdfqaf_BIwcvn-AAAD
+2025-06-10 14:58:41 [[33mwarn[39m] : 🔴 Cliente desconectado: 66yp-sVMp6KRb4vwAAAG
+2025-06-10 14:58:41 [[32minfo[39m] : 🟢 Cliente conectado: PFL_iijOIfFV-WSxAAAI
+2025-06-10 14:58:41 [[32minfo[39m] : 🟢 Cliente conectado: Z7jg_1rRpR1Ghw2OAAAL
+2025-06-10 14:58:41 [[32minfo[39m] : ✅ Cliente Z7jg_1rRpR1Ghw2OAAAL se unió a la sala 4e4264da-affc-4154-84fb-f0cda09cc4e3
+2025-06-10 14:58:43 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 0
+2025-06-10 14:58:43 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 1
+2025-06-10 14:58:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 1
+2025-06-10 14:58:45 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:48 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:50 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:52 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:54 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 2
+2025-06-10 14:58:54 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 3
+2025-06-10 14:58:57 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 3
+2025-06-10 14:59:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 3
+2025-06-10 14:59:00 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:59:02 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:59:04 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:59:04 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 4
+2025-06-10 14:59:04 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 5
+2025-06-10 14:59:08 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 5
+2025-06-10 14:59:11 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 5
+2025-06-10 14:59:11 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 14:59:13 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 15:00:48 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 15:00:51 [[32minfo[39m] : 📡 Elementos sincronizados en sala 4e4264da-affc-4154-84fb-f0cda09cc4e3: 6
+2025-06-10 15:00:51 [[33mwarn[39m] : 🔴 Cliente desconectado: Z7jg_1rRpR1Ghw2OAAAL
+2025-06-10 15:01:58 [[32minfo[39m] : 🟢 Cliente conectado: vx7nZa0G-cgs39P3AAAO
+2025-06-10 15:01:58 [[32minfo[39m] : ✅ Cliente vx7nZa0G-cgs39P3AAAO se unió a la sala 89733bcd-7dde-439c-9a1f-ce3a79d26a9c
+2025-06-10 15:02:06 [[32minfo[39m] : 📡 Elementos sincronizados en sala 89733bcd-7dde-439c-9a1f-ce3a79d26a9c: 0
+2025-06-10 15:02:06 [[33mwarn[39m] : 🔴 Cliente desconectado: vx7nZa0G-cgs39P3AAAO
