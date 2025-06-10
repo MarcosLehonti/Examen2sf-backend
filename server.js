@@ -12,7 +12,7 @@ const server = http.createServer(app);
 // Configurar Socket.IO con CORS abierto (ajustar en producción)
 const io = new Server(server, {
     cors: {
-      origin: 'https://disview.onrender.com',
+      origin: 'https://examen2sf-frontend-xsix.vercel.app',
       methods: ['GET', 'POST'],
       credentials: true
     }

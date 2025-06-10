@@ -21,7 +21,7 @@ const app = express();
 
 // 🔵 PRIMERO: configurar CORS bien
 app.use(cors({
-    origin: 'https://examen2sf-frontend-xsix.vercel.app',
+    origin: 'https://examen2sf-frontend-xsix.vercel.app/',
     credentials: true
   }));
   
