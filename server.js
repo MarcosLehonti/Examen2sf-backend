@@ -2,6 +2,7 @@ const app = require('./app');
 const http = require('http');
 const { Server } = require('socket.io');
 const logger = require('./logger');   // ✅ Agregado Winston
+const db = require('./models');       // ✅ Agregado para sincronizar modelos
 
 const PORT = process.env.PORT || 4000;
 
@@ -11,10 +12,12 @@ const server = http.createServer(app);
 // Configurar Socket.IO con CORS abierto (ajustar en producción)
 const io = new Server(server, {
     cors: {
-        origin: "*",
-        methods: ["GET", "POST"]
+      origin: 'https://disview.onrender.com',
+      methods: ['GET', 'POST'],
+      credentials: true
     }
-});
+  });
+  
 
 // Almacén de datos por sala
 const roomCodes = {};        // Para el editor de código
@@ -100,11 +103,17 @@ io.on('connection', (socket) => {
     });
 });
 
-// Iniciar servidor
-server.listen(PORT, () => {
-    console.log(`🚀 Servidor corriendo en http://localhost:${PORT}`);
-    logger.info(`🚀 Servidor corriendo en http://localhost:${PORT}`);
-});
+// Iniciar sincronización de la base de datos y servidor
+db.sequelize.sync({ alter: true })
+  .then(() => {
+    console.log('✅ Modelos sincronizados correctamente');
 
-
-
+    // Iniciar servidor
+    server.listen(PORT, () => {
+        console.log(`🚀 Servidor corriendo en http://localhost:${PORT}`);
+        logger.info(`🚀 Servidor corriendo en http://localhost:${PORT}`);
+    });
+  })
+  .catch((error) => {
+    console.error('❌ Error al sincronizar modelos:', error);
+  });
