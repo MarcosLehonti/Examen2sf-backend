@@ -12,7 +12,8 @@ const server = http.createServer(app);
 // Configurar Socket.IO con CORS abierto (ajustar en producción)
 const io = new Server(server, {
     cors: {
-      origin: 'https://examen2sf-frontend-xsix.vercel.app',
+      origin: ['https://examen2sf-frontend.vercel.app',
+      'http://localhost:5173'],
       methods: ['GET', 'POST'],
       credentials: true
     }
